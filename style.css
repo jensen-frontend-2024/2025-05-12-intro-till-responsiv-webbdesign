@@ -1,0 +1,23 @@
+.section-1 {
+  width: 20vw;
+  height: 20vh;
+  background-color: black;
+}
+
+.section-2 {
+  width: 20vw;
+  height: 20vh;
+  background-color: blueviolet;
+}
+
+@media screen and (min-width:400px) {
+  .section-1 {
+    width: 80vw;
+    background-color: red;
+  }
+}
+
+@media (min-width: 600px) {
+	.section-2 {display: none;}
+	}
+	
