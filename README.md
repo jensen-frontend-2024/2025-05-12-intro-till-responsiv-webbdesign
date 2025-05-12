@@ -8,7 +8,7 @@ När vi bygger moderna webbplatser behöver vi se till att de fungerar på olika
 
 `viewport` är det område som används för att visa webbplatsen i webbläsaren. Vi styr den med följande `meta`-tagg i `<head>`:
 
-```html
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ## 📏 Enhetstyper i CSS
@@ -56,9 +56,7 @@ Använd min-width för att styla när skärmen är större än ett visst värde.
 
 Kombinera flera media queries för att skapa breakpoints – t.ex. en för mobil, en för surfplatta och en för desktop.
 
-css
-Kopiera
-Redigera
+
 /* Mobil (upp till 768px) */
 @media (max-width: 768px) {
   .menu {
