@@ -5,6 +5,8 @@
 
 När vi bygger moderna webbplatser behöver vi se till att de fungerar på olika skärmstorlekar – från mobil till stora desktopskärmar. Det kallas för **responsiv design**.
 
+## [Länk till presentation](https://docs.google.com/presentation/d/16w_t-XpipcYwPuVsUFXAcSmWxgdmj8_KrHPb-0RiYdE/edit?usp=sharing)
+
 ## 🔍 Viewport
 
 `viewport` är det område som används för att visa webbplatsen i webbläsaren. Vi styr den med följande `meta`-tagg i `<head>`:
